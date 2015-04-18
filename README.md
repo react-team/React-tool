@@ -6,3 +6,4 @@ tool for react
 3. [SublimeLinter-jsxhint](https://sublime.wbond.net/packages/SublimeLinter-jsxhint)
 4. [Sublime-react](https://github.com/jgebhardt/sublime-react)
 5. [react-bootstrap](http://react-bootstrap.github.io/getting-started.html)
+6. [react-material](https://www.npmjs.com/package/react-material)
